@@ -1,0 +1,31 @@
+C:\Users\manis\OneDrive\Desktop\Software\C#\Pyment System\Pyment System\bin\Debug\Pyment System.exe.config
+C:\Users\manis\OneDrive\Desktop\Software\C#\Pyment System\Pyment System\bin\Debug\Pyment System.exe
+C:\Users\manis\OneDrive\Desktop\Software\C#\Pyment System\Pyment System\bin\Debug\Pyment System.pdb
+C:\Users\manis\OneDrive\Desktop\Software\C#\Pyment System\Pyment System\obj\Debug\Pyment System.csproj.AssemblyReference.cache
+C:\Users\manis\OneDrive\Desktop\Software\C#\Pyment System\Pyment System\obj\Debug\Pyment_System.Properties.Resources.resources
+C:\Users\manis\OneDrive\Desktop\Software\C#\Pyment System\Pyment System\obj\Debug\Pyment System.csproj.GenerateResource.cache
+C:\Users\manis\OneDrive\Desktop\Software\C#\Pyment System\Pyment System\obj\Debug\Pyment System.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\Software\C#\Pyment System\Pyment System\obj\Debug\Pyment System.exe
+C:\Users\manis\OneDrive\Desktop\Software\C#\Pyment System\Pyment System\obj\Debug\Pyment System.pdb
+C:\Users\manis\OneDrive\Desktop\Software\C#\Pyment System\Pyment System\obj\Debug\Pyment_System.SignUp.resources
+C:\Users\manis\OneDrive\Desktop\Software\C#\Pyment System\Pyment System\obj\Debug\Pyment_System.SignIn.resources
+C:\Users\manis\OneDrive\Desktop\Software\C#\Pyment System\Pyment System\obj\Debug\Pyment_System.Home.resources
+C:\Users\manis\OneDrive\Desktop\Software\C#\Pyment System\Pyment System\obj\Debug\Pyment_System.HomePage.resources
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\bin\Debug\Pyment System.exe.config
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\bin\Debug\Pyment System.exe
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\bin\Debug\Pyment System.pdb
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\obj\Debug\Pyment System.csproj.AssemblyReference.cache
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\obj\Debug\Pyment System.csproj.SuggestedBindingRedirects.cache
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\obj\Debug\Pyment_System.Home.resources
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\obj\Debug\Pyment_System.HomePage.resources
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\obj\Debug\Pyment_System.SignIn.resources
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\obj\Debug\Pyment_System.Properties.Resources.resources
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\obj\Debug\Pyment_System.SignUp.resources
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\obj\Debug\Pyment System.csproj.GenerateResource.cache
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\obj\Debug\Pyment System.csproj.CoreCompileInputs.cache
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\obj\Debug\Pyment System.exe
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\obj\Debug\Pyment System.pdb
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\bin\Debug\Pyment System.exe.manifest
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\bin\Debug\Pyment System.application
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\obj\Debug\Pyment System.exe.manifest
+C:\Users\khale\OneDrive\Desktop\år3\Software\Pyment System - Copy\Pyment System - Copy\Pyment System\obj\Debug\Pyment System.application
